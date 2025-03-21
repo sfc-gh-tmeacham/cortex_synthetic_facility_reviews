@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Snwoflake notebook demonstrates the use of Snowflake's Cortex Generative AI functions to analyze healthcare facility reviews. It showcases various AI-powered text analysis capabilities including sentiment analysis, text classification, summarization, and translation.
+This Snowflake notebook demonstrates the use of Snowflake's Cortex Generative AI functions to analyze healthcare facility reviews. It showcases various AI-powered text analysis capabilities including sentiment analysis, text classification, summarization, and translation.
 
 ## Key Features
 
